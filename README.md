@@ -27,7 +27,7 @@ namespace MisakoAPIForms
         /// </summary>
         private void button1_Click(object sender, EventArgs e)
         {
-            Magnius.Execute(richTextBox1.Text);
+            Misako.Execute(richTextBox1.Text);
         }
 
         /// <summary>
